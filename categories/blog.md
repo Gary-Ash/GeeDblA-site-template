@@ -3,8 +3,6 @@ layout: blog-post
 permalink: /blog
 pagination:
   enabled: true
-  categories:
-    values:
-      - blog
-    matching: any
+  collection: blog
+  per_page: 1
 ---
