@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "jekyll"
-gem "liquid", "~> 4.0.4"
+gem "liquid"
 group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jekyll-paginate-v2"
